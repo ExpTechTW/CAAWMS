@@ -1,9 +1,9 @@
-# 模板
+# CAAWMS
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- Composite All-weather Automatic Weather Monitoring System (複合式全天候自動氣象監測系統)
 
 ## 索引
 - [貢獻者](#貢獻者)
@@ -11,6 +11,7 @@
 - [合作](#合作)
 
 ## 貢獻者
+- Fire-Dragon-TW `程式開發`
 - whes1015 `文檔`
 
 ------
