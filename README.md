@@ -3,7 +3,7 @@
 
 ------
 
-- Composite All-weather Automatic Weather Monitoring System (複合式全天候自動氣象監測系統)
+- Composite All-weather Automatic Weather Monitoring System ( 複合式全天候自動氣象監測系統 )
 
 ## 索引
 - [貢獻者](#貢獻者)
